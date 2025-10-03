@@ -1,0 +1,74 @@
+Ziel-Keyword: [Haupt-Keyword, z. B. "Nachhaltige Energiegewinnung für Eigenheime"]
+Sekundäre Keywords: [Liste von 5-8 relevanten sekundären Keywords und LSI-Keywords (Latent Semantic Indexing), kommagetrennt]
+Zielgruppe: [Detaillierte Beschreibung der Zielgruppe: Alter, Kenntnisstand, spezifische Probleme/Fragen, die beantwortet werden sollen]
+CTA: [Klarer und relevanter Call-to-Action, der zum Hauptthema passt, z. B. "Jetzt unverbindlich beraten lassen", "Whitepaper herunterladen"]
+
+Struktur der Seite:
+
+1.  **Titel:** Ein fesselnder, SEO-optimierter Titel, der das Haupt-Keyword enthält und eine klare Vorstellung vom Inhalt gibt.
+2.  **Meta-Beschreibung:** Eine prägnante, überzeugende Beschreibung, die den Nutzen des langen Inhalts zusammenfasst und Neugier weckt.
+3.  **H1-Überschrift:** Die Hauptüberschrift, die das Haupt-Keyword nutzt und das Thema präzise benennt.
+4.  **Einleitung:** Ein kurzer, fesselnder Absatz, der das Problem oder die Frage der Zielgruppe aufgreift, die Relevanz des Themas hervorhebt und einen Überblick über die behandelten Punkte gibt.
+5.  **Inhaltsverzeichnis:** Eine kurze, nummerierte oder stichpunktartige Liste der Hauptsektionen (H2-Überschriften), um die Navigation zu erleichtern.
+6.  **Hauptsektionen (H2-Überschriften):**
+    * Generiere 3-5 detaillierte Abschnitte, die jeweils eine spezifische Unterfrage oder einen Aspekt des Hauptthemas behandeln.
+    * Jede Sektion beginnt mit einer klaren **H2-Überschrift**, die ein sekundäres Keyword enthält.
+    * Innerhalb dieser Sektionen können **H3-Überschriften** für weitere Unterthemen verwendet werden.
+    * Der Inhalt sollte tiefgehend, faktenbasiert und gut recherchiert sein.
+7.  **Daten & Fakten:** Integriere eine Sektion, die wichtige Statistiken, Zahlen oder Fallbeispiele präsentiert, um die Glaubwürdigkeit zu erhöhen.
+8.  **Praktische Tipps/Checkliste:** Füge einen Abschnitt mit konkreten, umsetzbaren Ratschlägen oder einer Checkliste hinzu.
+9.  **Expertenmeinung/Fazit:** Ein zusammenfassender Abschnitt, der die wichtigsten Erkenntnisse bündelt und die Relevanz für die Zielgruppe noch einmal betont.
+10. **CTA-Bereich:** Ein klar sichtbarer Absatz, der den vorher definierten CTA enthält.
+11. **FAQ:** Beantworte 3-5 häufig gestellte Fragen, um Long-Tail-Keywords abzudecken und dem Nutzer zusätzlichen Mehrwert zu bieten.
+12. **Weiterführende Links:** Ein kurzer Absatz, der auf interne Seiten von create-dot.com verweist, um die interne Verlinkung zu stärken.
+
+**Wichtige Anweisungen für die Generierung:**
+* Prüfe einen der beigefügten Links als Beispiel für die Generierung.
+* Die Länge des Inhalts sollte mindestens 1.500 Wörter betragen, um als umfassend und autoritär zu gelten.
+* Verwende einen informativen und vertrauenswürdigen Ton.
+* Der Text muss einzigartig und gut strukturiert sein.
+* Jede Sektion muss logisch aufeinander aufbauen.
+* Die Sprache muss verständlich sein, auch für Leser mit geringem Vorwissen.
+* Formatiere den Text ohne HTML-Tags. Nutze klare Sektionen und Absätze, die durch Leerzeilen getrennt sind. Überschriften sind durch "#" oder "##" (H2-Ebene) und "###" (H3-Ebene) zu kennzeichnen.
+
+**Beispielausgabe-Layout:**
+
+Titel: [Generierter Titel]
+Meta-Beschreibung: [Generierte Meta-Beschreibung]
+
+[Generierte H1-Überschrift]
+[Generierter Einleitungstext]
+
+Inhaltsverzeichnis
+[H2-Titel 1]
+
+[H2-Titel 2]
+...
+
+[Generierte H2-Überschrift 1, inkl. sekundärem Keyword]
+[Ausführlicher Text zu Sektion 1]
+
+[Generierte H3-Überschrift]
+[Text zu H3]
+
+[Generierte H2-Überschrift 2, inkl. sekundärem Keyword]
+[Ausführlicher Text zu Sektion 2]
+
+[Generierte H2-Überschrift 3, inkl. sekundärem Keyword]
+[Ausführlicher Text zu Sektion 3]
+
+Zahlen, Fakten und Beispiele
+[Generierte Liste mit Daten oder Fallbeispielen]
+
+Ihr Weg zum Erfolg: Konkrete Tipps und Handlungsempfehlungen
+[Generierte Checkliste oder Liste von Tipps]
+
+Häufig gestellte Fragen (FAQ)
+[Generierte Frage 1]
+[Generierte Antwort 1]
+[Generierte Frage 2]
+[Generierte Antwort 2]
+
+[Generierter CTA-Text]
+
+[Generierter Abschlusstext mit internen Verweisen]
