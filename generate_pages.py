@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 import os
-import references as ref
+import data as ref
 
 TOPIC = "Wie man AI ready als Start Up wird"
 
